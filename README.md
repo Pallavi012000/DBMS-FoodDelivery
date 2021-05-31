@@ -53,7 +53,7 @@ This project is a simple Order Delivery System example of popular e-commerce web
 
 
 
-**Collaborator: [Pallavi Y](https://github.com/Pallavi012000)**
+**Collaborator: [Ruchira Ray](https://github.com/rayruchira)**
 
 <p>&nbsp;</p>
     
